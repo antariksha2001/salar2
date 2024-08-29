@@ -1,8 +1,8 @@
 import streamlit as st
 
 import pandas as pd 
-#from matplotlib import pyplot as plt
-#from plotly import graph_objs as go
+from matplotlib import pyplot as plt
+from plotly import graph_objs as go
 from sklearn.linear_model import LinearRegression
 import numpy as np 
 
